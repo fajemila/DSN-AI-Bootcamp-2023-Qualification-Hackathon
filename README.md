@@ -23,13 +23,13 @@ The following steps were involved in building the predictive model:
 
 2. **Exploratory Data Analysis**: Before building the model, I performed exploratory data analysis to gain insights into the distribution of house prices. To provide a better understanding, I included visualizations, such as histograms of the price distribution overall, as well as separate histograms for each location, building type, and the number of bedrooms.
 
-![Histogram of Price Distribution](asset\price_distribution.png)
+![Histogram of Price Distribution](asset/price_distribution.png)
 
-![Histogram of Price Distribution for Each Location](asset\map_chloro.jpg)
+![Histogram of Price Distribution for Each Location](asset/map_chloro.jpg)
 
-![Histogram of Price Distribution for Each Type of Building](asset\pricetitle.png)
+![Histogram of Price Distribution for Each Type of Building](asset/pricetitle.png)
 
-![Histogram of Price Distribution for Number of Bedrooms](asset\pricebed.png)
+![Histogram of Price Distribution for Number of Bedrooms](asset/pricebed.png)
 
 3. **Feature Engineering**: I engineered relevant features and encoded categorical variables to improve the model's performance.
 
