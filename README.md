@@ -3,7 +3,7 @@
 This repository contains my solution for the DSN AI Bootcamp 2023 Qualification Project Participation/Hackathon. The hackathon challenges participants to create a robust predictive model for the house prices dataset. The solution demonstrates how AI can help with pricing decisions, market competitiveness, and customer value.
 ## DSN Logo
 
-![DSN Logo](asset\DATA-SCIENCE-LOGO-e1577726038798.png)
+![DSN Logo](asset/DATA-SCIENCE-LOGO-e1577726038798.png)
 
 
 ## Challenge Description
