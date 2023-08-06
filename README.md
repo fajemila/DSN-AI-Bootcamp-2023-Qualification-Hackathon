@@ -3,7 +3,7 @@
 This repository contains my solution for the DSN AI Bootcamp 2023 Qualification Project Participation/Hackathon. The hackathon challenges participants to create a robust predictive model for the house prices dataset. The solution demonstrates how AI can help with pricing decisions, market competitiveness, and customer value.
 ## DSN Logo
 
-![DSN Logo](assets/dsn_logo.png)
+![DSN Logo](asset\DATA-SCIENCE-LOGO-e1577726038798.png)
 
 
 ## Challenge Description
@@ -23,12 +23,13 @@ The following steps were involved in building the predictive model:
 
 2. **Exploratory Data Analysis**: Before building the model, I performed exploratory data analysis to gain insights into the distribution of house prices. To provide a better understanding, I included visualizations, such as histograms of the price distribution overall, as well as separate histograms for each location, building type, and the number of bedrooms.
 
+### Histogram of Price Distribution
 ![Histogram of Price Distribution](asset/price_distribution.png)
-
+### Histogram of Price Distribution for Each Location
 ![Histogram of Price Distribution for Each Location](asset/map_chloro.jpg)
-
+### Histogram of Price Distribution for Each Type of Building
 ![Histogram of Price Distribution for Each Type of Building](asset/pricetitle.png)
-
+### Histogram of Price Distribution for Number of Bedrooms
 ![Histogram of Price Distribution for Number of Bedrooms](asset/pricebed.png)
 
 3. **Feature Engineering**: I engineered relevant features and encoded categorical variables to improve the model's performance.
